@@ -1,0 +1,6 @@
+config/ConfigScheduler.java
+ config.ConfigScheduler
+PagesScheduler/BaseScreen.java
+ PagesScheduler.BaseScreen
+PagesScheduler/SplashScreen.java
+ PagesScheduler.SplashScreen
